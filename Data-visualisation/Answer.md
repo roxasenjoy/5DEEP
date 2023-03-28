@@ -6,18 +6,16 @@ Les informations récupérées par ce graphique ne sont pas suffisant pour réso
 nous en servir afin de déterminer une certaine occurence au niveau de l'amplitude des sons rajoutés.
 
 # Question 6
-Le dataset de son est équilibré, même si certains fichiers possèdent plus de données que d'autres mais l'écart n'est 
-pas siginficatif
 
- - Fold 1 : 873
- - Fold 2 : 888
- - Fold 3 : 925
- - Fold 4 : 990
- - Fold 5 : 936
- - Fold 6 : 823
- - Fold 7 : 838
- - Fold 8 : 806
- - Fold 9 : 816
- - Fold 10 : 837
+La plupart du dataset est équilibré hormis pour certaines classe qui ne contiennent pas 1000 sons.
 
-# Question 7
+ - air_conditioner     1000
+ - car_horn             429
+ - children_playing    1000
+ - dog_bark            1000
+ - drilling            1000
+ - engine_idling       1000
+ - gun_shot             374
+ - jackhammer          1000
+ - siren                929
+ - street_music        1000

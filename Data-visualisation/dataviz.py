@@ -44,5 +44,4 @@ def get_audio(amountAudioPerFile=0, getGraphics=False):
     if getGraphics:
         plt.show()
 
-
 get_audio(1, True)
